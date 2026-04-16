@@ -22,7 +22,7 @@ An interactive Power BI dashboard designed to analyze financial performance usin
 - Time Intelligence Functions
 
 ## 📷 Dashboard Preview
-![Dashboard] <img width="1110" height="623" alt="Screenshot 2026-04-16 214853" src="https://github.com/user-attachments/assets/ec06b5f1-2254-4cda-87ea-b3c48e119319" />
+<img width="1110" height="623" alt="Screenshot 2026-04-16 214853" src="https://github.com/user-attachments/assets/ec06b5f1-2254-4cda-87ea-b3c48e119319" />
 
 
 ## 📌 Project Highlights
